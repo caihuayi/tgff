@@ -1,2 +1,5 @@
 *.o
 tgff
+*.eps
+*.tgff
+*.vcg
